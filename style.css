@@ -1,10 +1,14 @@
-.pink {
-    background-color: #FF4690;
+.panda-bg-info {
+    background-color: #FCEAE8;
 }
 
 
-.bg-pink {
-    background-color: #FCEAE8;
+.panda-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px
 }
 
 .pink-h1 {
